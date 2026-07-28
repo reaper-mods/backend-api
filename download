@@ -1,3 +1,0 @@
-DATABASE_URL=postgresql://username:password@localhost:5432/arena_chat
-PORT=3000
-NODE_ENV=development
